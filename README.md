@@ -10,3 +10,6 @@ I wrote a program that outputs a random meal and an alternative. To make it more
 - Github
 - JavaScript
 - JSON
+
+### Launch:
+Fork this repository and run it on your console with node.
