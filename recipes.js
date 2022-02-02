@@ -13,5 +13,5 @@ var randomProperty = function (fs) {
     return fs[keys[keys.length * Math.random() << 0]].name;
 };
 
-console.log('Your recipe for tonight is:\n \n'+ randomProperty(fs) +"\n\nalternatively, we offer \n \n"+ randomProperty(fs)+"\n \n")
+console.log('\n \nYour recipe is:\n \n  '+ randomProperty(fs) +"\n\nalternatively, we offer \n \n   "+randomProperty(fs)+"\n \n")
 
